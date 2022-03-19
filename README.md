@@ -22,7 +22,6 @@
 
 ### Published Templates/Libraries:
 
-- [react-native-boilerplate](https://github.com/wataru-maeda/react-native-boilerplate)
 - [threejs-boilerplate](https://github.com/ThomasSanf/three-start)
 
   
