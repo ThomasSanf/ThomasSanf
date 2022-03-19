@@ -1,6 +1,6 @@
 <h1>Hi There👋</h1>
 
-<b>I'm Wataru</b>. I'm full-stack developer - have experienced building native apps (Swift/Objective-C/Java), hybrid apps (React Native), and web apps (ReactJs) as well as developing backend (Nodejs, Express, GraphQL, MongoDB, Postgres, GCP, AWS). 
+<b>I'm Thomas</b>. I'm a full-stack developer - have experienced building native apps (Swift/Objective-C/Java), hybrid apps (React Native), and web apps (ReactJs) as well as developing backend (Nodejs, Express, GraphQL, MongoDB, Postgres, GCP, AWS). 
 
 - 💻 I’m currently working on Reactjs, Nodejs, GraphQL, MongoDB, AWS, React Native
 - 👨‍🎓 I’m currently enjoying ReactNative, ChakraUI, Next.js, Three.js, GLSL
