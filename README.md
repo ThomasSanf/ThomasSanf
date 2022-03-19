@@ -16,7 +16,7 @@
 
 ### Github Stats:
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=wataru-maeda&count_private=true&show_icons=true&hide_border=true&&theme=tokyonight)](https://github.com/wataru-maeda)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wataru-maeda&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=thomassanf&count_private=true&show_icons=true&hide_border=true&&theme=tokyonight)](https://github.com/wataru-maeda)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wataru-maeda&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wataru-maeda&layout=compact&hide=makefile,c++&hide_border=true&&theme=tokyonight)](https://github.com/wataru-maeda)
 
